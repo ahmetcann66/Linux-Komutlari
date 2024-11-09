@@ -27,120 +27,210 @@ aprops ls
 
 ![isim](Images/apropos.png "çıklama")
 
-## `apropos` Komutu
-Bir veya daha fazla anahtar kelime içeren satırları yazdırır.
-
-![isim](Images/df.png "çıklama")
-
 ## `df` Komutu
 Bir dosya sisteminde yer alan toplam alana ve kullanılabilir alana ilişkin bilgileri görüntülemek için kullanılır.
 
-![isim](Images/top.png "çıklama")
+```Bash
+df
+```
+
+![isim](Images/df.png "çıklama")
 
 ## `top` Komutu
 Çalışan işlemlerin ve çekirdek tarafından yönetilen görevlerin dinamik, gerçek zamanlı görünümünü gösterir.
 
-![isim](Images/whoami.png "çıklama")
+```Bash
+top
+```
+
+![isim](Images/top.png "çıklama")
 
 ## `whomi` Komutu
 Betiği hangi kullanıcının çalıştırdığını gösterir.
 
-![isim](Images/poweroff.png "çıklama")
+```Bash
+whoami
+```
+
+![isim](Images/whoami.png "çıklama")
 
 ## `poweroff` Komutu
 Sistemi kapatır.
+```Bash
+poweroff
+```
 
-![isim](Images/!!.png "çıklama")
+![isim](Images/poweroff.png "çıklama")
 
 ## `!!` Komutu
 En son çalıştırılan komutu tekrar çalıştırır.
 
-![isim](Images/uptime.png "çıklama")
+```Bash
+!!
+```
+
+![isim](Images/!!.png "çıklama")
 
 ## `uptime` Komutu
  Sistemin ne kadar süre aktif kaldığını gösterir.
 
-![isim](Images/ifconfig.png "çıklama")
+ ```Bash
+uptime
+```
+
+![isim](Images/uptime.png "çıklama")
 
 ## `ifconfig` Komutu
 Ağ arabirimi STRUCTURE yapısının dinamik olarak yaratılmasına ya da çekirdek belleğinden silinmesine olanak tanıyan ağ arabirimi yapılandırma aracıdır.
 
-![isim](Images/echo.png "çıklama")
+```Bash
+ifconfig
+```
+
+![isim](Images/ifconfig.png "çıklama")
 
 ## `echo` Komutu
 Karakter dizgilerini standart çıkışa yazar.
 
-![isim](Images/id.png "çıklama")
+```Bash
+echo
+```
+
+![isim](Images/echo.png "çıklama")
 
 ## `id` Komutu
 Gerçek ya da etkin kimlik yerine oturum açma kimliğini yazdığını belirtir.
 
-![isim](Images/lscpu.png "çıklama")
+```Bash
+id
+```
+
+![isim](Images/id.png "çıklama")
 
 ## `lscpu` Komutu
  Sistemdeki CPU'lar hakkında ayrıntılı bir bilgi listesi sağlar.
 
-![isim](Images/passwd.png "çıklama")
+```Bash
+lscpu
+```
+
+![isim](Images/lscpu.png "çıklama")
 
 ## `passwd` Komutu
 Kullanıcı hesapları için parolaları değiştirir.
 
-![isim](Images/uname.png "çıklama")
+```Bash
+passwd
+```
+
+![isim](Images/passwd.png "çıklama")
 
 ## `uname` Komutu
  Sistem hakkında bilgi verir. Geçerli makine ve üzerinde çalışdığı işletim sistemi hakkında isim, sürüm ve diğer ayrıntıları yazdırır.
 
-![isim](Images/neofetch.png "çıklama")
+```Bash
+uname
+```
+
+![isim](Images/uname.png "çıklama")
 
 ## `neofetch` Komutu
 Sisteminizin bilgilerini işletim sistemi logonuzun veya seçtiğiniz herhangi bir ASCII dosyasının hemen yanında görüntüleyen bir komut satırı aracıdır.
 
-![isim](Images/pwd.png "çıklama")
+```Bash
+neofetch
+```
+
+![isim](Images/neofetch.png "çıklama")
 
 ## `pwd` Komutu
 Mevcut dizinin yolunu yazdıran bir komuttur.
 
-![isim](Images/touch.png "çıklama")
+```Bash
+pwd
+```
+
+![isim](Images/pwd.png "çıklama")
 
 ## `touch` Komutu
-Bir bilgisayar dosyasının veya dizininin son kullanım ve/veya düzenlenme tarihini güncellemek için kullanılan bir komuttur.
+ir bilgisayar dosyasının veya dizininin son kullanım ve/veya düzenlenme tarihini güncellemek için kullanılan bir komuttur.
 
-![isim](Images/clear.png "çıklama")
+```Bash
+touch
+```
+
+![isim](Images/touch.png "çıklama")
 
 ## `clear` Komutu
 Yazılan komutları ekranı temizler.
 
-![isim](Images/date.png "çıklama")
+```Bash
+clear
+```
+![isim](Images/clear.png "çıklama")
 
 ## `date` Komutu
 İşaret olmadan ya da + (artı işareti) ile başlayan bir işaret listesiyle çağrılırsa, geçerli tarih ve saati standart çıkışa yazar.
 
-![isim](Images/free.png "çıklama")
+```Bash
+date
+```
+
+![isim](Images/date.png "çıklama")
 
 ## `free` Komutu
 Sisteminizdeki RAM belleğini kontrol etmenizi veya Linux işletim sisteminin bellek istatistiklerini kontrol etmenizi sağlar.
 
-![isim](Images/lshw.png "çıklama")
+```Bash
+free
+```
+
+
+![isim](Images/free.png "çıklama")
 
 ## `lshw` Komutu
 Sistemin sahip olduğu donanımlarla ilgili ayrıntılı bilgi veren konsol programıdır.
 
-![isim](Images/fdisk.png "çıklama")
+```Bash
+lshw
+```
+
+![isim](Images/lshw.png "çıklama")
 
 ## `fdisk` Komutu
 Sabit diskte bölümler oluşturmak, silmek, yeniden boyutlandırmak, değiştirmek ve taşımak için kullanılır.
 
-![isim](Images/history.png "çıklama")
+```Bash
+fdisk
+```
+
+![isim](Images/fdisk.png "çıklama")
 
 ## `history` Komutu
 Komut geçmişi listesiyle çalışır.
 
-![isim](Images/shut.png "çıklama")
+```Bash
+history
+```
+
+![isim](Images/history.png "çıklama")
 
 ## `shut` Komutu
 Bilgisayarın sağlıklı bir şekilde kapanmasını sağlar.
 
-![isim](Images/adduser.png "çıklama")
+```Bash
+shut
+```
+
+![isim](Images/shut.png "çıklama")
 
 ## `adduser` Komutu
 Bir kullanıcı oluşturmak için kullanılan bir yardımcı programdır.
+
+```Bash
+adduser
+```
+
+![isim](Images/adduser.png "çıklama")
+
+
