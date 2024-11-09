@@ -1,11 +1,54 @@
 # Linux-Komutlari
 ## Seviye 2
-![isim](url "çıklama")
+![isim](Images/ls.png "çıklama")
 * madde
-    * madde
-    
-    ![isim](url "çıklama")
-
-```Bash
-cd .
-```
+![isim](Images/ls_a.png "çıklama")
+* madde
+![isim](Images/apropos.png "çıklama")
+* madde
+![isim](Images/df.png "çıklama")
+* madde
+![isim](Images/top.png "çıklama")
+* madde
+![isim](Images/whoami.png "çıklama")
+* madde
+![isim](Images/poweroff.png "çıklama")
+* madde
+![isim](Images/!!.png "çıklama")
+* madde
+![isim](Images/uptime.png "çıklama")
+* madde
+![isim](Images/ifcanfig.png "çıklama")
+* madde
+![isim](Images/echo.png "çıklama")
+* madde
+![isim](Images/id.png "çıklama")
+* madde
+![isim](Images/lscpu.png "çıklama")
+* madde
+![isim](Images/passwd.png "çıklama")
+* madde
+![isim](Images/uname.png "çıklama")
+* madde
+![isim](Images/neofetch.png "çıklama")
+* madde
+![isim](Images/pwd.png "çıklama")
+* madde
+![isim](Images/touch.png "çıklama")
+* madde
+![isim](Images/clear.png "çıklama")
+* madde
+![isim](Images/date.png "çıklama")
+* madde
+![isim](Images/free.png "çıklama")
+* madde
+![isim](Images/lshw.png "çıklama")
+* madde
+![isim](Images/fdisk.png "çıklama")
+* madde
+![isim](Images/history.png "çıklama")
+* madde
+![isim](Images/shut.png "çıklama")
+* madde
+![isim](Images/adduser.png "çıklama")
+* madde
