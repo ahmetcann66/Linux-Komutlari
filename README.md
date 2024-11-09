@@ -18,7 +18,7 @@
 * madde
 ![isim](Images/uptime.png "çıklama")
 * madde
-![isim](Images/ifcanfig.png "çıklama")
+![isim](Images/ifconfig.png "çıklama")
 * madde
 ![isim](Images/echo.png "çıklama")
 * madde
