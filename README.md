@@ -9,7 +9,7 @@ Bir dosya sisteminde yer alan toplam alana ve kullanılabilir alana ilişkin bil
 df
 ```
 
-![isim](Images/df.png "çıklama")
+![isim](Imagess/df.png "çıklama")
 
 ## `df -a` Komutu
 Dosya sisteminin tüm ayrıntılarını gösterir.
@@ -18,7 +18,7 @@ Dosya sisteminin tüm ayrıntılarını gösterir.
 df -a
 ```
 
-![isim](Images/df%20-a.png "çıklama")
+![isim](Imagess/df%20-a.png "çıklama")
 
 ## `df -h` Komutu
 Dosya sisteminin kullanım bilgilerini insan tarafından okunabilir formatta gösterir.
@@ -26,7 +26,7 @@ Dosya sisteminin kullanım bilgilerini insan tarafından okunabilir formatta gö
 df -h
 ```
 
-![isim](Images/df%20-h.png "çıklama")
+![isim](Imagess/df%20-h.png "çıklama")
 
 ## `df -i` Komutu
 Dosya sistemi inode kullanım bilgilerini gösterir.
@@ -34,7 +34,7 @@ Dosya sistemi inode kullanım bilgilerini gösterir.
 df -i
 ```
 
-![isim](Images/df%20-i.png "çıklama")
+![isim](Imagess/df%20-i.png "çıklama")
 
 ## `top` Komutu
 Çalışan işlemlerin ve çekirdek tarafından yönetilen görevlerin dinamik, gerçek zamanlı görünümünü gösterir.
@@ -43,7 +43,7 @@ df -i
 top
 ```
 
-![isim](Images/top.png "çıklama")
+![isim](Imagess/top.png "çıklama")
 
 ## `top -d 5` Komutu
 omutunu her 5 saniyede bir günceller.
@@ -51,7 +51,7 @@ omutunu her 5 saniyede bir günceller.
 top -d 5
 ```
 
-![isim](Images/top%20-d%205.png "çıklama")
+![isim](Imagess/top%20-d%205.png "çıklama")
 
 ## `top -n 10` Komutu
 komutunun çıktısını 10 kez tekrarlar.
@@ -59,7 +59,7 @@ komutunun çıktısını 10 kez tekrarlar.
 top -n 10
 ```
 
-![isim](Images/top%20-n%2010.png "çıklama")
+![isim](Imagess/top%20-n%2010.png "çıklama")
 
 ## `top -p 1234` Komutu
 Belirtilen işlem ID'sine (PID) sahip işlemi top komutuyla gösterir.
@@ -67,7 +67,7 @@ Belirtilen işlem ID'sine (PID) sahip işlemi top komutuyla gösterir.
 top -p 1234
 ```
 
-![isim](Images/top -p 1234.png "çıklama")
+![isim](Imagess/top%20-p%201234.png "çıklama")
 
 ## `top -u username` Komutu
 Belirli bir kullanıcının işlemlerini gösterir.
@@ -75,7 +75,7 @@ Belirli bir kullanıcının işlemlerini gösterir.
 top -u username
 ```
 
-![isim](Images/top -u username.png "çıklama")
+![isim](Imagess/top%20-u%20username.png "çıklama")
 
 ## `uptime` Komutu
  Sistemin ne kadar süre aktif kaldığını gösterir.
@@ -84,7 +84,7 @@ top -u username
 uptime
 ```
 
-![isim](Images/uptime.png "çıklama")
+![isim](Imagess/uptime.png "çıklama")
 
 ## `uname` Komutu
  Sistem hakkında bilgi verir. Geçerli makine ve üzerinde çalışdığı işletim sistemi hakkında isim, sürüm ve diğer ayrıntıları yazdırır.
@@ -93,7 +93,7 @@ uptime
 uname
 ```
 
-![isim](Images/uname.png "çıklama")
+![isim](Imagess/uname.png "çıklama")
 
 ## `neofetch` Komutu
 Sisteminizin bilgilerini işletim sistemi logonuzun veya seçtiğiniz herhangi bir ASCII dosyasının hemen yanında görüntüleyen bir komut satırı aracıdır.
@@ -102,7 +102,7 @@ Sisteminizin bilgilerini işletim sistemi logonuzun veya seçtiğiniz herhangi b
 neofetch
 ```
 
-![isim](Images/neofetch.png "çıklama")
+![isim](Imagess/neofetch.png "çıklama")
 
 ## `lscpu` Komutu
  Sistemdeki CPU'lar hakkında ayrıntılı bir bilgi listesi sağlar.
@@ -111,7 +111,7 @@ neofetch
 lscpu
 ```
 
-![isim](Images/lscpu.png "çıklama")
+![isim](Imagess/lscpu.png "çıklama")
 
 ## `ifconfig` Komutu
 Ağ arabirimi STRUCTURE yapısının dinamik olarak yaratılmasına ya da çekirdek belleğinden silinmesine olanak tanıyan ağ arabirimi yapılandırma aracıdır.
@@ -120,7 +120,7 @@ Ağ arabirimi STRUCTURE yapısının dinamik olarak yaratılmasına ya da çekir
 ifconfig
 ```
 
-![isim](Images/ifconfig.png "çıklama")
+![isim](Imagess/ifconfig.png "çıklama")
 
 ## `free` Komutu
 Sisteminizdeki RAM belleğini kontrol etmenizi veya Linux işletim sisteminin bellek istatistiklerini kontrol etmenizi sağlar.
@@ -130,7 +130,7 @@ free
 ```
 
 
-![isim](Images/free.png "çıklama")
+![isim](Imagess/free.png "çıklama")
 
 ## `lshw` Komutu
 Sistemin sahip olduğu donanımlarla ilgili ayrıntılı bilgi veren konsol programıdır.
@@ -139,7 +139,7 @@ Sistemin sahip olduğu donanımlarla ilgili ayrıntılı bilgi veren konsol prog
 lshw
 ```
 
-![isim](Images/lshw.png "çıklama")
+![isim](Imagess/lshw.png "çıklama")
 
 ## `history` Komutu
 Komut geçmişi listesiyle çalışır.
@@ -148,7 +148,7 @@ Komut geçmişi listesiyle çalışır.
 history
 ```
 
-![isim](Images/history.png "çıklama")
+![isim](Imagess/history.png "çıklama")
 
 ## `dmesg` Komutu
 Kernel mesajlarını gösterir.
@@ -156,7 +156,7 @@ Kernel mesajlarını gösterir.
 dmesg
 ```
 
-![isim](Images/dmesg.png "çıklama")
+![isim](Imagess/dmesg.png "çıklama")
 
 ## `dmesg | grep error` Komutu
 dmesg çıktısındaki hataları filtreler.
@@ -164,7 +164,7 @@ dmesg çıktısındaki hataları filtreler.
 dmesg | grep error
 ```
 
-![isim](Images/dmesg | grep error.png "çıklama")
+![isim](Imagess/dmesg%20_%20grep%20error.png "çıklama")
 
 ## `lsof` Komutu
 Açık dosyaları listeler.
@@ -172,7 +172,7 @@ Açık dosyaları listeler.
 lsof
 ```
 
-![isim](Images/lsof.png "çıklama")
+![isim](Imagess/lsof.png "çıklama")
 
 ## `ps` Komutu
 Çalışan süreçleri gösterir.
@@ -180,7 +180,7 @@ lsof
 ps
 ```
 
-![isim](Images/ps.png "çıklama")
+![isim](Imagess/ps.png "çıklama")
 
 ## `vmstat ` Komutu
  Sistem durumu bilgilerini gösterir.
@@ -188,7 +188,7 @@ ps
 vmstat 
 ```
 
-![isim](Images/vmstat .png "çıklama")
+![isim](Imagess/vmstat.png "çıklama")
 
 ## `sysctl -a` Komutu
 Tüm çekirdek parametrelerini listeler.
@@ -197,7 +197,7 @@ Tüm çekirdek parametrelerini listeler.
 sysctl -a
 ```
 
-![isim](Images/
+![isim](Imagess/sysctl%20-a.png "çıklama")
 
 ## `systemctl` Komutu
 Systemd hizmetlerini yönetir.
@@ -205,7 +205,7 @@ Systemd hizmetlerini yönetir.
 systemctl
 ```
 
-![isim](Images/systemctl.png "çıklama")
+![isim](Imagess/systemctl.png "çıklama")
 
 ## `timedatectl` Komutu
 Tarih ve saat yönetimi.
@@ -213,7 +213,7 @@ Tarih ve saat yönetimi.
 timedatectl
 ```
 
-![isim](Images/timedatectl.png "çıklama")
+![isim](Imagess/timedatectl.png "çıklama")
 
 ## `w` Komutu
  Sisteme giriş yapan kullanıcıları gösterir.
@@ -221,7 +221,7 @@ timedatectl
 w
 ```
 
-![isim](Images/w.png "çıklama")
+![isim](Imagess/w.png "çıklama")
 
 # Sistem Durumu ve Konfigürasyon
 
@@ -232,7 +232,7 @@ Sistemi farklı çalışma seviyelerine geçirir.
 init 
 ```
 
-![isim](Images/init .png "çıklama")
+![isim](Imagess/init.png "çıklama")
 
 ## `vmstat ` Komutu
  Sistem durumu bilgilerini gösterir.
@@ -240,7 +240,7 @@ init
 vmstat 
 ```
 
-![isim](Images/vmstat .png "çıklama")
+![isim](Imagess/vmstat.png "çıklama")
 
 ## `last ` Komutu
 Sistem oturumlarını listeler.
@@ -248,7 +248,7 @@ Sistem oturumlarını listeler.
 last 
 ```
 
-![isim](Images/last .png "çıklama")
+![isim](Imagess/last.png "çıklama")
 
 ## `less ` Komutu
 Dosya içeriğini sayfa sayfa görüntüler.
@@ -256,7 +256,7 @@ Dosya içeriğini sayfa sayfa görüntüler.
 less 
 ```
 
-![isim](Images/less .png "çıklama")
+![isim](Imagess/less%20xxx.png "çıklama")
 
 ## `sudo ` Komutu
 Yönetici haklarıyla komutla çalıştırır.
@@ -264,7 +264,7 @@ Yönetici haklarıyla komutla çalıştırır.
 sudo 
 ```
 
-![isim](Images/sudo .png "çıklama")
+![isim](Imagess/sudo.png "çıklama")
 
 ## `sudo visudo` Komutu
 sudokesintileri düzenler.
@@ -272,7 +272,7 @@ sudokesintileri düzenler.
 sudo visudo
 ```
 
-![isim](Images/sudo visudo.png "çıklama")
+![isim](Imagess/sudo%20visudo.png "çıklama")
 
 # yedekleme ve senkronizasyon
 
@@ -283,7 +283,7 @@ Dosya saklamayı yapar.
 rsync
 ```
 
-![isim](Images/rsync.png "çıklama")
+![isim](Imagess/rsync.png "çıklama")
 
 
 
@@ -296,7 +296,7 @@ Bir kullanıcı oluşturmak için kullanılan bir yardımcı programdır.
 adduser
 ```
 
-![isim](Images/adduser.png "çıklama")
+![isim](Imagess/adduser.png "çıklama")
 
 ## `whomi` Komutu
 Betiği hangi kullanıcının çalıştırdığını gösterir.
@@ -305,7 +305,7 @@ Betiği hangi kullanıcının çalıştırdığını gösterir.
 whoami
 ```
 
-![isim](Images/whoami.png "çıklama")
+![isim](Imagess/whoami.png "çıklama")
 
 ## `passwd` Komutu
 Kullanıcı hesapları için parolaları değiştirir.
@@ -314,7 +314,7 @@ Kullanıcı hesapları için parolaları değiştirir.
 passwd
 ```
 
-![isim](Images/passwd.png "çıklama")
+![isim](Imagess/passwd.png "çıklama")
 
 ## `passwd -l` Komutu
 Kullanıcı parolasını kilitler.
@@ -322,7 +322,7 @@ Kullanıcı parolasını kilitler.
 passwd -l
 ```
 
-![isim](Images/passwd -l.png "çıklama")
+![isim](Imagess/passwd%20-l.png "çıklama")
 
 
 ## `id` Komutu
@@ -332,7 +332,7 @@ Gerçek ya da etkin kimlik yerine oturum açma kimliğini yazdığını belirtir
 id
 ```
 
-![isim](Images/id.png "çıklama")
+![isim](Imagess/id.png "çıklama")
 
 ## `deluser` Komutu
 Bir kullanıcıyı siler.
@@ -340,7 +340,7 @@ Bir kullanıcıyı siler.
 deluser
 ```
 
-![isim](Images/deluser.png "çıklama")
+![isim](Imagess/deluser.png "çıklama")
 
 ## `useradd` Komutu
  Yeni bir kullanıcı hesabı ekler.
@@ -348,7 +348,7 @@ deluser
 useradd
 ```
 
-![isim](Images/useradd.png "çıklama")
+![isim](Imagess/useradd.png "çıklama")
 
 ## `useradd -m` Komutu
 Yeni kullanıcı için ev dizini oluşturur.
@@ -356,7 +356,7 @@ Yeni kullanıcı için ev dizini oluşturur.
 useradd -m
 ```
 
-![isim](Images/useradd -m.png "çıklama")
+![isim](Imagess/useradd%20-m.png "çıklama")
 
 ## `useradd -s` Komutu
 Kullanıcı için shell belirtir.
@@ -364,7 +364,7 @@ Kullanıcı için shell belirtir.
 useradd -s
 ```
 
-![isim](Images/useradd -s.png "çıklama")
+![isim](Imagess/useradd%20-s.png "çıklama")
 
 ## `chage` Komutu
 Kullanıcı parolasının süresini ayarlamak için kullanılır.
@@ -372,7 +372,7 @@ Kullanıcı parolasının süresini ayarlamak için kullanılır.
 chage
 ```
 
-![isim](Images/chage.png "çıklama")
+![isim](Imagess/chage.png "çıklama")
 
 ## `groupadd` Komutu
 Yeni bir kullanıcı grubu oluşturur.
@@ -380,7 +380,7 @@ Yeni bir kullanıcı grubu oluşturur.
 groupadd
 ```
 
-![isim](Images/groupadd.png "çıklama")
+![isim](Imagess/groupadd.png "çıklama")
 
 ## `groupdel` Komutu
 Bir kullanıcı grubunu siler.
@@ -388,7 +388,7 @@ Bir kullanıcı grubunu siler.
 groupdel
 ```
 
-![isim](Images/groupdel.png "çıklama")
+![isim](Imagess/groupdel.png "çıklama")
 
 ## `groups` Komutu
 Kullanıcının dahil olduğu grupları gösterir.
@@ -396,7 +396,7 @@ Kullanıcının dahil olduğu grupları gösterir.
 groups
 ```
 
-![isim](Images/groups.png "çıklama")
+![isim](Imagess/groups.png "çıklama")
 
 
 
@@ -409,7 +409,7 @@ groups
 ls
 ```
 
-![isim](Images/ls.png "ls Komutu")
+![isim](Imagess/ls.png "ls Komutu")
 
 ## `ls -a` Komutu
 Bir dizinin içeriğini ek ayrıntılarla birlikte(gizli dosyalar dahil) bir liste olarak görüntülemek için kullanılır.
@@ -418,7 +418,7 @@ Bir dizinin içeriğini ek ayrıntılarla birlikte(gizli dosyalar dahil) bir lis
 ls -a
 ```
 
-![isim](Images/ls_a.png "çıklama")
+![isim](Imagess/ls_a.png "çıklama")
 
 ## `pwd` Komutu
 Mevcut dizinin yolunu yazdıran bir komuttur.
@@ -427,7 +427,7 @@ Mevcut dizinin yolunu yazdıran bir komuttur.
 pwd
 ```
 
-![isim](Images/pwd.png "çıklama")
+![isim](Imagess/pwd.png "çıklama")
 
 ## `touch` Komutu
 ir bilgisayar dosyasının veya dizininin son kullanım ve/veya düzenlenme tarihini güncellemek için kullanılan bir komuttur.
@@ -436,7 +436,7 @@ ir bilgisayar dosyasının veya dizininin son kullanım ve/veya düzenlenme tari
 touch
 ```
 
-![isim](Images/touch.png "çıklama")
+![isim](Imagess/touch.png "çıklama")
 
 ## `clear` Komutu
 Yazılan komutları ekranı temizler.
@@ -444,7 +444,7 @@ Yazılan komutları ekranı temizler.
 ```Bash
 clear
 ```
-![isim](Images/clear.png "çıklama")
+![isim](Imagess/clear.png "çıklama")
 
 ## `ls -a` Komutu
 Bir dizinin içeriğini ek ayrıntılarla birlikte(gizli dosyalar dahil) bir liste olarak görüntülemek için kullanılır.
@@ -453,7 +453,7 @@ Bir dizinin içeriğini ek ayrıntılarla birlikte(gizli dosyalar dahil) bir lis
 ls -a
 ```
 
-![isim](Images/ls_a.png "çıklama")
+![isim](Imagess/ls_a.png "çıklama")
 
 ## `cd ..` Komutu
 Bir üst dizine geçer.
@@ -461,7 +461,7 @@ Bir üst dizine geçer.
 cd ..
 ```
 
-![isim](Images/cd ...png "çıklama")
+![isim](Imagess/cd%20...png "çıklama")
 
 ## `ln` Komutu
 Dosya için bağlantı oluşturur
@@ -469,7 +469,7 @@ Dosya için bağlantı oluşturur
 ln
 ```
 
-![isim](Images/ln.png "çıklama")
+![isim](Imagess/ln.png "çıklama")
 
 ## `ln -s` Komutu
 Sembolik bağlantı oluşturur.
@@ -477,7 +477,7 @@ Sembolik bağlantı oluşturur.
 ln -s
 ```
 
-![isim](Images/ln -s.png "çıklama")
+![isim](Imagess/ln%20-s.png "çıklama")
 
 ## `ls -l` Komutu
 Dosya ve dizinleri uzun formatta listeler.
@@ -485,7 +485,7 @@ Dosya ve dizinleri uzun formatta listeler.
 ls -l
 ```
 
-![isim](Images/ls -l.png "çıklama")
+![isim](Imagess/ls%20-l.png "çıklama")
 
 ## `mkdir` Komutu
 Yeni bir dizin oluşturur.
@@ -493,7 +493,7 @@ Yeni bir dizin oluşturur.
 mkdir
 ```
 
-![isim](Images/mkdir.png "çıklama")
+![isim](Imagess/mkdir.png "çıklama")
 
 ## `mv` Komutu
 Dosya veya dizin taşır veya yeniden adlandırır.
@@ -501,7 +501,7 @@ Dosya veya dizin taşır veya yeniden adlandırır.
 mv
 ```
 
-![isim](Images/mv.png "çıklama")
+![isim](Imagess/mv%20xxx.png "çıklama")
 
 ## `rm` Komutu
 Dosya veya dizin siler.
@@ -509,7 +509,7 @@ Dosya veya dizin siler.
 rm
 ```
 
-![isim](Images/rm.png "çıklama")
+![isim](Imagess/rm%20xxx.png "çıklama")
 
 ## `find` Komutu
 Dosya aramak için kullanılır.
@@ -517,7 +517,7 @@ Dosya aramak için kullanılır.
 find
 ```
 
-![isim](Images/find.png "çıklama")
+![isim](Imagess/find.png "çıklama")
 
 ## `file` Komutu
 Dosyanın türünü gösterir.
@@ -525,7 +525,7 @@ Dosyanın türünü gösterir.
 file
 ```
 
-![isim](Images/file.png "çıklama")
+![isim](Imagess/file.png "çıklama")
 
 ## `stat` Komutu
 Dosyanın veya dizinin stat bilgilerini gösterir.
@@ -533,7 +533,7 @@ Dosyanın veya dizinin stat bilgilerini gösterir.
 stat
 ```
 
-![isim](Images/stat.png "çıklama")
+![isim](Imagess/stat.png "çıklama")
 
 ## `du` Komutu
 Dizin ve dosyaların disk kullanımını gösterir.
@@ -541,7 +541,7 @@ Dizin ve dosyaların disk kullanımını gösterir.
 du
 ```
 
-![isim](Images/du.png "çıklama")
+![isim](Imagess/du.png "çıklama")
 
 ## `lsusb` Komutu
 USB aygıtlarını listeler.
@@ -549,24 +549,23 @@ USB aygıtlarını listeler.
 lsusb
 ```
 
-![isim](Images/lsusb.png "çıklama")
+![isim](Imagess/lsusb.png "çıklama")
 
 ## `lsusb -v` Komutu
 USB aygıtlarının ayrıntılı bilgisini gösterir.
 ```Bash
-lsusb -v```
+lsusb -v
+```
 
-![isim](Images/lsusb -v.png "çıklama")
+![isim](Imagess/lsusb%20-v.png "çıklama")
 
-# Sistem Kapama ve Yeniden Başlatma
-
-## `poweroff` Komutu
 Sistemi kapatır.
+
 ```Bash
 poweroff
 ```
 
-![isim](Images/poweroff.png "çıklama")
+![isim](Imagess/poweroff.png "çıklama")
 
 ## `shut` Komutu
 Bilgisayarın sağlıklı bir şekilde kapanmasını sağlar.
@@ -575,7 +574,7 @@ Bilgisayarın sağlıklı bir şekilde kapanmasını sağlar.
 shut
 ```
 
-![isim](Images/shut.png "çıklama")
+![isim](Imagess/shut.png"çıklama")
 
 ## `halt` Komutu
 Sistemi hemen kapatır.
@@ -583,7 +582,7 @@ Sistemi hemen kapatır.
 halt
 ```
 
-![isim](Images/halt.png "çıklama")
+![isim](Imagess/halt.png "çıklama")
 
 ## `reboot` Komutu
 Sistemi yeniden başlatır.
@@ -591,7 +590,7 @@ Sistemi yeniden başlatır.
 reboot
 ```
 
-![isim](Images/reboot.png "çıklama")
+![isim](Imagess/reboot.png "çıklama")
 
 # Ağ ve İletişim
 
@@ -602,7 +601,7 @@ Karakter dizgilerini standart çıkışa yazar.
 echo
 ```
 
-![isim](Images/echo.png "çıklama")
+![isim](Imagess/echo.png "çıklama")
 
 ## `date` Komutu
 İşaret olmadan ya da + (artı işareti) ile başlayan bir işaret listesiyle çağrılırsa, geçerli tarih ve saati standart çıkışa yazar.
@@ -611,7 +610,7 @@ echo
 date
 ```
 
-![isim](Images/date.png "çıklama")
+![isim](Imagess/date.png "çıklama")
 
 ## `aprops ls` Komutu
 Belirtilen dize veya dizeleri ( anahtar sözcükler olarak adlandırılır) tüm kılavuz sayfalarının "ad" bölümlerinde aramak için kullanılır.
@@ -620,7 +619,7 @@ Belirtilen dize veya dizeleri ( anahtar sözcükler olarak adlandırılır) tüm
 aprops ls
 ```
 
-![isim](Images/apropos.png "çıklama")
+![isim](Imagess/apropos.png "çıklama")
 
 
 
@@ -630,7 +629,7 @@ Dosya indirmek için kullanılır.
 wget
 ```
 
-![isim](Images/wget.png "çıklama")
+![isim](Imagess/wget.png "çıklama")
 
 ## `curl` Komutu
 Verileri almak veya göndermek için kullanılır.
@@ -638,7 +637,7 @@ Verileri almak veya göndermek için kullanılır.
 curl
 ```
 
-![isim](Images/curl.png "çıklama")
+![isim](Imagess/curl.png "çıklama")
 
 ## `hostname` Komutu
 Sistemin hostname'ini gösterir.
@@ -646,7 +645,7 @@ Sistemin hostname'ini gösterir.
 hostname
 ```
 
-![isim](Images/hostname.png "çıklama")
+![isim](Imagess/hostname.png "çıklama")
 
 ## `route` Komutu
 Yönlendirme tablosunu gösterir.
@@ -654,7 +653,7 @@ Yönlendirme tablosunu gösterir.
 route
 ```
 
-![isim](Images/route.png "çıklama")
+![isim](Imagess/route.png "çıklama")
 
 ## `dig` Komutu
 DNS sorguları yapar.
@@ -662,7 +661,7 @@ DNS sorguları yapar.
 dig
 ```
 
-![isim](Images/dig.png "çıklama")
+![isim](Imagess/dig.png "çıklama")
 
 ## `nslookup` Komutu
 İşaret olmadan ya da + (artı işareti) ile başlayan bir işaret listesiyle çağrılırsa, geçerli tarih ve saati standart çıkışa yazar.
@@ -671,7 +670,7 @@ dig
 nslookup
 ```
 
-![isim](Images/nslookup.png "çıklama")
+![isim](Imagess/nslookup.png "çıklama")
 
 ## `ss -tuln` Komutu
 Dinleyen soket bağlantılarını gösterir.
@@ -679,7 +678,7 @@ Dinleyen soket bağlantılarını gösterir.
 ss -tuln
 ```
 
-![isim](Images/ss -tuln.png "çıklama")
+![isim](Imagess/ss%20-tuln.png "çıklama")
 
 ## `ss` Komutu
  Soket bağlantılarını gösterir.
@@ -687,7 +686,7 @@ ss -tuln
 ss
 ```
 
-![isim](Images/ss.png "çıklama")
+![isim](Imagess/ss.png "çıklama")
 
 ## `netstat -tuln` Komutu
 Dinleyen ağ bağlantılarını gösterir.
@@ -695,7 +694,7 @@ Dinleyen ağ bağlantılarını gösterir.
 netstat -tuln
 ```
 
-![isim](Images/netstat -tuln.png "çıklama")
+![isim](Imagess/netstat%20-tuln.png "çıklama")
 
 ## `netstat -rn` Komutu
 Yönlendirme tablosunu gösterir
@@ -703,7 +702,7 @@ Yönlendirme tablosunu gösterir
 netstat -rn
 ```
 
-![isim](Images/netstat -rn.png "çıklama")
+![isim](Imagess/netstat%20-rn.png "çıklama")
 
 ## `netstat -an` Komutu
 Ağ bağlantılarını ve portları listeler.
@@ -711,7 +710,7 @@ Ağ bağlantılarını ve portları listeler.
 netstat -an
 ```
 
-![isim](Images/netstat -an.png "çıklama")
+![isim](Imagess/netstat%20-an.png "çıklama")
 
 ## `netstat` Komutu
 Ağ bağlantılarının listesini gösterir.
@@ -719,15 +718,8 @@ Ağ bağlantılarının listesini gösterir.
 netstat
 ```
 
-![isim](Images/netstat.png "çıklama")
+![isim](Imagess/netstat.png "çıklama")
 
-## `scp` Komutu
-Güvenli dosya kopyalama komutu.
-```Bash
-scp
-```
-
-![isim](Images/scp.png "çıklama")
 
 ## `ssh` Komutu
 Dosya indirmek için kullanılır.
@@ -735,7 +727,7 @@ Dosya indirmek için kullanılır.
 ssh
 ```
 
-![isim](Images/ssh.png "çıklama")
+![isim](Imagess/ssh.png "çıklama")
 
 ## `scp` Komutu
 Güvenli dosya kopyalama komutu.
@@ -743,7 +735,7 @@ Güvenli dosya kopyalama komutu.
 scp
 ```
 
-![isim](Images/scp.png "çıklama")
+![isim](Imagess/scp.png "çıklama")
 
 # Diğer Kullanışlı Komutlar
 
@@ -755,7 +747,7 @@ En son çalıştırılan komutu tekrar çalıştırır.
 !!
 ```
 
-![isim](Images/!!.png "çıklama")
+![isim](Imagess/!!.png "çıklama")
 
 
 ## `fdisk` Komutu
@@ -765,7 +757,7 @@ Sabit diskte bölümler oluşturmak, silmek, yeniden boyutlandırmak, değiştir
 fdisk
 ```
 
-![isim](Images/fdisk.png "çıklama")
+![isim](Imagess/fdisk.png "çıklama")
 
 ## `alias` Komutu
 Komutlara kısaltmalar tanımlar.
@@ -774,7 +766,7 @@ Komutlara kısaltmalar tanımlar.
 alias
 ```
 
-![isim](Images/alias.png "çıklama")
+![isim](Imagess/alias.png "çıklama")
 
 ## `sed` Komutu
 Akış düzenleyicisi, metin üzerinde işlemler yapar.
@@ -783,7 +775,7 @@ Akış düzenleyicisi, metin üzerinde işlemler yapar.
 sed
 ```
 
-![isim](Images/sed.png "çıklama")
+![isim](Imagess/sed.png "çıklama")
 
 ## `awk` Komutu
 Metin işleme ve veri analizi aracı.
@@ -792,7 +784,7 @@ Metin işleme ve veri analizi aracı.
 awk
 ```
 
-![isim](Images/awk.png "çıklama")
+![isim](Imagess/awk.png "çıklama")
 
 ## `watch` Komutu
 Komutları belirli aralıklarla tekrar eder.
@@ -801,7 +793,7 @@ Komutları belirli aralıklarla tekrar eder.
 watch
 ```
 
-![isim](Images/watch.png "çıklama")
+![isim](Imagess/watch%20-n%201%20df%20-h.png "çıklama")
 
 ## `zip` Komutu
 Dosya sıkıştırma komutudur.
@@ -810,7 +802,7 @@ Dosya sıkıştırma komutudur.
 zip
 ```
 
-![isim](Images/zip.png "çıklama")
+![isim](Imagess/zip.png "çıklama")
 
 ## `stat` Komutu
 Dosyanın ya da dizinin durumunu gösterir.
@@ -819,7 +811,7 @@ Dosyanın ya da dizinin durumunu gösterir.
 stat
 ```
 
-![isim](Images/stat.png "çıklama")
+![isim](Imagess/stat.png "çıklama")
 
 
 
