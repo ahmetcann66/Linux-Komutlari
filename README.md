@@ -1,6 +1,25 @@
-# Linux-Komutlari
+# Linux-Komutlari 👨‍💻👩‍💻
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
-# Sistem Yönetimi ve Bilgi Görüntüleme Komutları
+## Açıklama
+
+Bu repo, Linux işletim sisteminde sıkça kullanılan komutları ve bu komutların kullanım örneklerini içermektedir. Her komut için açıklamalar, kullanım örnekleri ve çıktı görselleri bulunmaktadır. Bu kaynak, Linux kullanıcıları için bir referans kılavuzu olarak hazırlanmıştır ve şu kategorileri içermektedir:
+
+
+## İçindekiler 🗒️
+| Bölüm | Alt Başlıklar |
+|-------|---------------|
+| [Sistem Yönetimi ve Bilgi Görüntüleme Komutları](#sistem-yönetimi-ve-bilgi-görüntüleme-komutları-) | df, top, uptime, uname, neofetch, lscpu, ifconfig, free, lshw, history, dmesg, lsof, ps, vmstat, sysctl, systemctl, timedatectl, w |
+| [Sistem Durumu ve Konfigürasyon](#sistem-durumu-ve-konfigürasyon) | init, vmstat, last, less, sudo |
+| [Yedekleme ve Senkronizasyon](#yedekleme-ve-senkronizasyon) | rsync |
+| [Kullanıcı ve Hesap Yönetimi](#kullanıcı-ve-hesap-yönetimi) | adduser, whoami, passwd, id, deluser, useradd, chage, groupadd, groupdel, groups |
+| [Dosya ve Dizin Yönetimi](#dosya-ve-dizin-yönetimi) | ls, pwd, touch, clear, cd, ln, mkdir, mv, rm, find, file, stat, du, lsusb |
+| [Sistem Kapatma ve Yeniden Başlatma](#sistem-kapatma-ve-yeniden-başlatma) | poweroff, shut, halt, reboot |
+| [Ağ ve İletişim](#ağ-ve-iletişim) | echo, date, apropos, wget, curl, hostname, route, dig, nslookup, ss, netstat, ssh, scp |
+| [Diğer Kullanışlı Komutlar](#diğer-kullanışlı-komutlar) | !!, fdisk, alias, sed, awk, watch, zip, stat |
+
+# Sistem Yönetimi ve Bilgi Görüntüleme Komutları 🖥️
 
 ## `df` Komutu
 Bir dosya sisteminde yer alan toplam alana ve kullanılabilir alana ilişkin bilgileri görüntülemek için kullanılır.
@@ -223,7 +242,7 @@ w
 
 ![isim](Imagess/w.png "çıklama")
 
-# Sistem Durumu ve Konfigürasyon
+# Sistem Durumu ve Konfigürasyon 👨‍💻
 
 
 ## `init ` Komutu
@@ -274,7 +293,7 @@ sudo visudo
 
 ![isim](Imagess/sudo%20visudo.png "çıklama")
 
-# yedekleme ve senkronizasyon
+# yedekleme ve senkronizasyon 🕖
 
 
 ## `rsync` Komutu
@@ -287,7 +306,7 @@ rsync
 
 
 
-# Kullanıcı ve Hesap Yönetimi
+# Kullanıcı ve Hesap Yönetimi 👤
 
 ## `adduser` Komutu
 Bir kullanıcı oluşturmak için kullanılan bir yardımcı programdır.
@@ -334,7 +353,7 @@ id
 
 ![isim](Imagess/id.png "çıklama")
 
-## `deluser` Komutu
+## `deluser` Komutu 
 Bir kullanıcıyı siler.
 ```Bash
 deluser
@@ -400,7 +419,7 @@ groups
 
 
 
-# Dosya ve Dizin Yönetimi
+# Dosya ve Dizin Yönetimi 🗂️
 
 ## `ls` Komutu
 İlgili dizide(klasörde) ki diğer erişilebilir dizileri gösteriyor.
@@ -592,7 +611,7 @@ reboot
 
 ![isim](Imagess/reboot.png "çıklama")
 
-# Ağ ve İletişim
+# Ağ ve İletişim 🛜
 
 ## `echo` Komutu
 Karakter dizgilerini standart çıkışa yazar.
@@ -737,7 +756,7 @@ scp
 
 ![isim](Imagess/scp.png "çıklama")
 
-# Diğer Kullanışlı Komutlar
+# Diğer Kullanışlı Komutlar ♟️
 
 
 ## `!!` Komutu
@@ -812,6 +831,17 @@ stat
 ```
 
 ![isim](Imagess/stat.png "çıklama")
+
+## Kaynakça 📨
+
+1. Linux man pages. (t.y.). die.net. https://linux.die.net/man/
+
+
+## Uyarı ‼️
+Bazı komutlar sisteminiz üzerinde değişiklikler yaparak veri kaybına neden olabilir.Lütfen komutları kullanırken ne işe yaradıklarına dikkat edin !!
+
+## İletişim 📞
+ahmetcanbozkurt295@gmail.com
 
 
 
